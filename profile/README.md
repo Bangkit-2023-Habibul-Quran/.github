@@ -1,6 +1,6 @@
 <h1 align="center">Habibul Qur'an</h1>
 <p align="center">
-  <img src="https://github.com/Bangkit-2023-Habibul-Quran/.github/blob/main/Habibul%20Quran%20-%20Logo.png" width="240px" alt="Habibul Quran Logo">
+  <img src="https://github.com/Bangkit-2023-Habibul-Quran/.github/blob/main/profile/Habibul%20Quran%20-%20Logo.png" width="240px" alt="Habibul Quran Logo">
 </p>
 <h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C23-PR569 Team</h4>
