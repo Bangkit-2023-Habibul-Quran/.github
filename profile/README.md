@@ -33,7 +33,7 @@ Habibul Quran is an interactive application for learning Al-Quran powered by AI 
 
 ## Documentation 
 
-[**Habibul Quran Early Access**](https://drive.google.com/file/d/1oSIgsF70xENLDLPlwXfu7u8GemsMwnhN/view?usp=drive_link)
+[**Habibul Quran Early Access**](https://github.com/utsmanabd/haqqu-apk/raw/main/habibulquran.apk)
 
 
 ### Getting Started
